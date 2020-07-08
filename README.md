@@ -7,7 +7,7 @@
 - Shortcut App
 - Pyto(iOS/iPadOS App)
   - Pandasライブラリを使用できるため
-- 料理オントロジー構築プリジェクトデータ
+- 料理オントロジー構築プロジェクトデータ
   - [データ](http://nlp.indsys.chuo-u.ac.jp/cgi-bin/cooking/wiki.cgi)
 
 ## Video
